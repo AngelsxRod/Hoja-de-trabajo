@@ -1,6 +1,3 @@
-# Ejercicio 11: Menú de Sistema Operativo
-# Crear, eliminar, modificar o listar archivos (simulado)
-
 archivos = ["documento.txt", "imagen.png", "datos.csv"]
 
 while True:

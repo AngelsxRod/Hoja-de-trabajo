@@ -1,6 +1,3 @@
-# Ejercicio 4: Calculadora Simple
-# Solicitar dos números y una opción (1→Suma, 2→Resta, 3→Multiplicación, 4→División)
-
 num1 = float(input("Ingrese el primer número: "))
 num2 = float(input("Ingrese el segundo número: "))
 

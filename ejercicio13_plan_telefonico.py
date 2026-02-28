@@ -1,6 +1,3 @@
-# Ejercicio 13: Plan Telefónico
-# Mostrar precio y beneficios según plan (Básico, Estándar, Premium)
-
 print("===== PLANES TELEFÓNICOS =====")
 print("1. Básico")
 print("2. Estándar")

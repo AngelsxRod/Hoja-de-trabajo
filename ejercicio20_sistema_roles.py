@@ -1,6 +1,3 @@
-# Ejercicio 20: Sistema de Roles
-# Mostrar permisos según tipo de usuario (Administrador, Moderador, Usuario, Invitado)
-
 print("===== SISTEMA DE ROLES =====")
 print("1. Administrador")
 print("2. Moderador")

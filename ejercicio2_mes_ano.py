@@ -1,6 +1,3 @@
-# Ejercicio 2: Mes del Año
-# Ingrese un número del 1 al 12 y muestre el nombre del mes
-
 numero = int(input("Ingrese un número del 1 al 12: "))
 
 match numero:

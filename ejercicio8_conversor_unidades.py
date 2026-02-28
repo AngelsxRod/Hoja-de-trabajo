@@ -1,6 +1,3 @@
-# Ejercicio 8: Conversor de Unidades
-# Convertir entre metros/kilómetros y Celsius/Fahrenheit según opción seleccionada
-
 print("===== CONVERSOR DE UNIDADES =====")
 print("1. Metros a Kilómetros")
 print("2. Kilómetros a Metros")

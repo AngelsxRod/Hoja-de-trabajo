@@ -1,6 +1,3 @@
-# Ejercicio 5: Conversión de Notas
-# Ingresar letra (A, B, C, D, F) y mostrar su significado
-
 letra = input("Ingrese una letra de nota (A, B, C, D, F): ").upper()
 
 match letra:

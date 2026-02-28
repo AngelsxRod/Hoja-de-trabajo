@@ -1,6 +1,3 @@
-# Ejercicio 9: Número de Mes y Estación
-# Ingresar número de mes y mostrar estación del año
-
 mes = int(input("Ingrese el número del mes (1-12): "))
 
 match mes:

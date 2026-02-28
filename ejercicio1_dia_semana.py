@@ -1,6 +1,3 @@
-# Ejercicio 1: Día de la Semana
-# Solicite un número del 1 al 7 y muestre el día correspondiente
-
 numero = int(input("Ingrese un número del 1 al 7: "))
 
 match numero:

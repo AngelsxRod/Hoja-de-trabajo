@@ -1,6 +1,3 @@
-# Ejercicio 16: Sistema de Calificaciones Numéricas
-# Convertir nota numérica en letra (A, B, C, D, F)
-
 nota = float(input("Ingrese la nota numérica (0-100): "))
 
 if nota < 0 or nota > 100:

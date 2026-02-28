@@ -1,6 +1,3 @@
-# Ejercicio 19: Clasificación de Figuras
-# Mostrar fórmula del área según figura (Círculo, Cuadrado, Rectángulo, Triángulo)
-
 import math
 
 print("===== CLASIFICACIÓN DE FIGURAS =====")

@@ -1,6 +1,3 @@
-# Ejercicio 14: Menú Bancario Completo
-# Consultar saldo, Depositar, Retirar, Transferir o Salir (actualizando saldo)
-
 saldo = 1000.00
 
 while True:

@@ -1,6 +1,3 @@
-# Ejercicio 7: Cajero Automático
-# Menú (Consultar saldo, Depositar, Retirar, Salir) con saldo inicial de Q1000
-
 saldo = 1000.00
 
 while True:

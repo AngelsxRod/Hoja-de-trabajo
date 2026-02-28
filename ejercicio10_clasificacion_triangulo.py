@@ -1,6 +1,3 @@
-# Ejercicio 10: Clasificación de Triángulo
-# Mostrar explicación según tipo (Equilátero, Isósceles, Escaleno)
-
 print("===== CLASIFICACIÓN DE TRIÁNGULO =====")
 print("1. Equilátero")
 print("2. Isósceles")

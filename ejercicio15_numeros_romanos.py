@@ -1,6 +1,3 @@
-# Ejercicio 15: Conversión de Números Romanos
-# Mostrar valor decimal según símbolo (I, V, X, L, C)
-
 simbolo = input("Ingrese un símbolo romano (I, V, X, L, C): ").upper()
 
 match simbolo:

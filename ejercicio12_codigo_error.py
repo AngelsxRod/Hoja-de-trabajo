@@ -1,6 +1,3 @@
-# Ejercicio 12: Código de Error
-# Mostrar mensaje según código (404, 500, 403, 200)
-
 codigo = int(input("Ingrese el código de error/estado: "))
 
 match codigo:

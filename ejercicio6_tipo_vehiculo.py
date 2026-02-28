@@ -1,6 +1,3 @@
-# Ejercicio 6: Tipo de Vehículo
-# Ingresar opción (1→Carro, 2→Moto, 3→Camión, 4→Bicicleta) y mostrar descripción
-
 print("===== TIPO DE VEHÍCULO =====")
 print("1. Carro")
 print("2. Moto")

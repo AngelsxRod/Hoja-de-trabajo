@@ -1,6 +1,3 @@
-# Ejercicio 3: Menú de Restaurante
-# Mostrar menú (1→Hamburguesa, 2→Pizza, 3→Ensalada, 4→Bebida) e imprimir opción seleccionada
-
 print("===== MENÚ DE RESTAURANTE =====")
 print("1. Hamburguesa")
 print("2. Pizza")

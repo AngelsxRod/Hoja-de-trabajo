@@ -1,6 +1,3 @@
-# Ejercicio 18: Menú de Juego
-# Iniciar juego, cargar partida, configuración, créditos o salir
-
 while True:
     print("\n===== MENÚ DE JUEGO =====")
     print("1. Iniciar juego")

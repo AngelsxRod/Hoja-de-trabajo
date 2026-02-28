@@ -1,6 +1,3 @@
-# Ejercicio 17: Operaciones Matemáticas Avanzadas
-# Potencia, raíz cuadrada, módulo o valor absoluto
-
 import math
 
 print("===== OPERACIONES MATEMÁTICAS AVANZADAS =====")
